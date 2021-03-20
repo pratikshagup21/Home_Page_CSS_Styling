@@ -1,0 +1,85 @@
+header{
+	background-color: darkblue;
+	padding: 0.1px;
+}
+
+ul{
+	list-style: none;
+}
+
+li{
+	display: inline;
+	margin: 70px;
+}
+
+li a{
+	color: white;
+	text-decoration: none;
+	font-family: Cambria;
+	font-weight: bold;
+	font-size: 150%;
+}
+
+li a:hover{
+	color: yellow;
+	text-decoration: none;
+}
+
+div{
+	text-align: center;
+}
+
+#carouselExampleControls{
+	padding-top: 7px;
+}
+
+.calligraphy{
+	font-family: Lucida calligraphy;
+	font-weight: bold;
+	font-size: 30px;
+	color: purple;
+	padding-top: 10px;
+
+}
+
+.quote{
+	font-family: Script MT;
+	font-weight: bold;
+	font-size: 25px;
+	color: darkblue;
+}
+
+.link{
+	font-family: Cambria;
+	font-weight: bold;
+	font-size: 21px;
+}
+
+footer{
+	background-color: darkblue;
+	padding: 0.1px;
+	font-family: Cambria;
+	font-weight: bold;
+	color: white;
+}
+
+.copy{
+	font-size: 20px;
+	text-align: center;
+}
+
+.footh{
+	font-family: Cambria;
+	font-weight: bold;
+	text-align: left;
+	font-size: 18px;
+	text-align: center;
+}
+
+.foot1{
+	text-align: center;
+}
+
+
+
+
